@@ -13,12 +13,22 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "classnames": "^2.5.1",
+    "dompurify": "^3.3.1",
+    "highlight.js": "^11.11.1",
+    "katex": "^0.16.27",
+    "marked": "^17.0.1",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.11.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
-    "@types/node": "^24.10.1",
+    "@types/dompurify": "^3.0.5",
+    "@types/highlight.js": "^9.12.4",
+    "@types/katex": "^0.16.7",
+    "@types/marked": "^5.0.2",
+    "@types/node": "^24.10.4",
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",
